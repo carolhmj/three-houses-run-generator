@@ -1,0 +1,7 @@
+- A button with a route selector
+    * Once clicked, the selected route is displayed with the other options
+- Select number of characters
+- Should randomize classes?
+    * If so, should prefer classes in boons?
+- Should include DLC characters?
+- Once all options are selected, randomly select the characters and the classes, if this option was selected, and display them    
